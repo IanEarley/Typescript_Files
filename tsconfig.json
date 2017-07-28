@@ -3,12 +3,6 @@
     "sourceMap": true
   },
   "files": [
-    "typescript_config.ts",
-    "variables.ts",
-    "string_interpolation.ts",
-    "loops.ts",
-    "functions.ts",
-    "function_args.ts",
-    "arrow_function.ts"
+    "immediately_invoked_functions.ts"
   ]
 }
