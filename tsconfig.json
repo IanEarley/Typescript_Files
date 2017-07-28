@@ -3,6 +3,6 @@
     "sourceMap": true
   },
   "files": [
-    "immediately_invoked_functions.ts"
+    "OOP_inheritance.ts"
   ]
 }
