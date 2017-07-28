@@ -5,6 +5,10 @@
   "files": [
     "typescript_config.ts",
     "variables.ts",
-    "loops.ts"
+    "string_interpolation.ts",
+    "loops.ts",
+    "functions.ts",
+    "function_args.ts",
+    "arrow_function.ts"
   ]
 }
