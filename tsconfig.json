@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "sourceMap": true
+  },
+  "files": [
+    "typescript_config.ts",
+    "variables.ts",
+    "loops.ts"
+  ]
+}
